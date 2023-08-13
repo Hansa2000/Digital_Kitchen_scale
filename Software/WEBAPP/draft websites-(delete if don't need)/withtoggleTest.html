@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Calorie Tracker</title>
+  <style>
+    /* CSS for the scale layout */
+    #scaleContainer {
+      width: 300px;
+      margin: 50px auto;
+      background-color: #f0f0f0;
+      border-radius: 10px;
+      padding: 20px;
+      text-align: center;
+    }
+
+    #weight {
+      font-size: 48px;
+      margin-top: 0;
+    }
+
+    .button {
+      display: inline-block;
+      padding: 10px 20px;
+      margin: 10px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    /* CSS for the button states */
+    .button:hover {
+      background-color: #45a049;
+    }
+
+    .button:active {
+      background-color: #3e8e41;
+    }
+
+    /* CSS for the meal tracking section */
+    #mealTracking {
+      margin: 20px auto;
+      max-width: 300px;
+      padding: 10px;
+      background-color: #f0f0f0;
+      border-radius: 10px;
+    }
+
+    #mealTracking h2 {
+      margin-top: 0;
+    }
+
+    #currentMeal {
+      margin-bottom: 10px;
+    }
+
+    /* CSS for the meal tracking form */
+    #mealForm {
+      margin: 20px auto;
+      max-width: 300px;
+    }
+
+    #mealForm label {
+      display: block;
+      margin-bottom: 5px;
+    }
+
+    #mealForm input[type="text"] {
+      width: 100%;
+      padding: 5px;
+      border-radius: 4px;
+      border: 1px solid #ccc;
+    }
+
+    #mealForm input[type="submit"] {
+      display: block;
+      margin-top: 10px;
+      padding: 10px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+  </style>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+<body>
+  <div id="scaleContainer">
+    <h1>Calorie Tracker</h1>
+    <h2 id="weight">0</h2>
+    <p id="unitLabel">grams</p>
+    <button class="button" id="recordButton">Record</button>
+    <button class="button" id="tareButton">Tare</button>
+    <button class="button" id="unitButton">Toggle Unit</button>
+  </div>
+
+  <div id="mealForm">
+    <h2>Track Your Meal</h2>
+    <label for="foodName">Food Name:</label>
+    <input type="text" id="foodName" placeholder="Enter food name">
+
+    <label for="weight">Weight:</label>
+    <input type="text" id="weight" placeholder="Enter weight">
+
+    <label for="calories">Calories:</label>
+    <input type="text" id="calories" placeholder="Enter calorie count">
+
+    <input type="submit" id="submitMeal" value="Add to Meal">
+  </div>
+
+  <div id="mealTracking">
+    <h2>Currently Recording Meal</h2>
+    <div id="currentMeal"></div>
+  </div>
+
+  <script>
+    // Assume the weight measurement is obtained through a WebSocket connection or AJAX request.
+    // Update the "weight" element with the received weight measurement.
+
+    // Example code for updating the weight measurement using WebSocket:
+    var socket = new WebSocket("wss://example.com/weight-measurement");
+
+    socket.onmessage = function(event) {
+      var weightData = JSON.parse(event.data);
+      var weightElement = document.getElementById("weight");
+      weightElement.textContent = weightData.weight;
+    };
+
+    // Example code for updating the weight measurement using AJAX request:
+    function updateWeightMeasurement() {
+      $.ajax({
+        url: "https://example.com/api/weight-measurement",
+        method: "GET",
+        success: function(response) {
+          var weightData = JSON.parse(response);
+          var weightElement = document.getElementById("weight");
+          weightElement.textContent = weightData.weight;
+        },
+        error: function(xhr, status, error) {
+          console.log("Error occurred while retrieving weight measurement.");
+        }
+      });
+    }
+
+    // Periodically update the weight measurement
+    setInterval(updateWeightMeasurement, 1000); // Update every second
+
+    $(document).ready(function() {
+      var currentMeal = {
+        foodName: '',
+        weight: '',
+        calories: 0
+      };
+
+      $("#recordButton").click(function() {
+        var weight = $("#weight").text();
+        $("#weight").val(weight);
+      });
+
+      $("#submitMeal").click(function(event) {
+        event.preventDefault();
+        var foodName = $("#foodName").val();
+        var weight = $("#weight").val();
+        var calories = $("#calories").val();
+
+        if (foodName !== "" && weight !== "" && calories !== "") {
+          // Handle adding the meal to the tracker
+          console.log("Added to meal: " + foodName + " - " + weight + " grams - " + calories + " calories");
+
+          currentMeal.foodName = foodName;
+          currentMeal.weight = weight;
+          currentMeal.calories = parseInt(calories);
+          updateCurrentMeal();
+        }
+      });
+
+      $("#unitButton").click(function() {
+        var unitLabel = $("#unitLabel");
+        var currentUnit = unitLabel.text();
+
+        if (currentUnit === "grams") {
+          unitLabel.text("ounces");
+        } else if (currentUnit === "ounces") {
+          unitLabel.text("grams");
+        }
+      });
+
+      function updateCurrentMeal() {
+        var currentMealElement = $("#currentMeal");
+        var unitLabel = $("#unitLabel").text();
+        currentMealElement.html('<strong>' + currentMeal.foodName + '</strong> - ' + currentMeal.weight + ' ' + unitLabel + ' - ' + currentMeal.calories + ' calories');
+      }
+
+      $(".clearButton").click(function() {
+      clearData();
+
+	function updateRecordedData() {
+        var dataList = $("#dataList");
+        dataList.empty();
+
+        for (var i = 0; i < recordedData.length; i++) {
+          var item = recordedData[i];
+          var listItem = $("<li>").text("Food Name: " + item.foodName + " | Weight: " + item.weight + " grams | Calories: " + item.calories);
+          dataList.append(listItem);
+        }
+      }
+
+      function resetMealTracking() {
+        currentMeal.foodName = "";
+        currentMeal.weight = "";
+        currentMeal.calories = 0;
+        $("#currentMeal").empty();
+      }
+
+      function clearData() {
+        recordedData = [];
+        updateRecordedData();
+      });
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=GND Pin=buttons-01
+Removed Pin From Net: NetName=RST Pin=buttons-02
+Removed Pin From Net: NetName=VCC Pin=buttons-03
+Removed Pin From Net: NetName=Tare/Unit Pin=buttons-04
+Removed Member From Class: ClassName=initial circuit Member=buttons
+Change Component Comment : Designator=MCP73831 Old Comment=MCP73831T-5ACI/OT New Comment=MCP73831T-2ACI/OT
+Change Component Designator: OldDesignator=R470 NewDesignator=R 470
+Added Component: Designator=C5-.1 uF(CAPC2012X88N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "C0805C104K5RAC7411"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c0805c104k5rac7411/kemet-corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/212/KEM_C1002_X7R_SMD-1102033.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805C104K5RAC7411"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "80-C0805C104K5RACLR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C104K5RAC7411?qs=jbRM9o5BbzPcVXF0wW9AYg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C6-.1uF(CAPC2012X88N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "C0805C104K5RAC7411"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c0805c104k5rac7411/kemet-corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/212/KEM_C1002_X7R_SMD-1102033.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805C104K5RAC7411"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "80-C0805C104K5RACLR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C104K5RAC7411?qs=jbRM9o5BbzPcVXF0wW9AYg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=RST(ON)(TE_1825910-2)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1825910-2/TE+Connectivity+ALCOSWITCH+Switches/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1825910-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/1825910-2/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1825910-2/TE+Connectivity+ALCOSWITCH+Switches/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Tare/Unit(TE_1825910-2)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1825910-2/TE+Connectivity+ALCOSWITCH+Switches/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1825910-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/1825910-2/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1825910-2/TE+Connectivity+ALCOSWITCH+Switches/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=C5-.1 uF-1
+Added Pin To Net: NetName=Tare/Unit Pin=C5-.1 uF-2
+Added Pin To Net: NetName=GND Pin=C6-.1uF-1
+Added Pin To Net: NetName=RST Pin=C6-.1uF-2
+Added Pin To Net: NetName=GND Pin=RST(ON)-1
+Added Pin To Net: NetName=GND Pin=RST(ON)-2
+Added Pin To Net: NetName=RST Pin=RST(ON)-3
+Added Pin To Net: NetName=RST Pin=RST(ON)-4
+Added Pin To Net: NetName=VCC Pin=Tare/Unit-1
+Added Pin To Net: NetName=VCC Pin=Tare/Unit-2
+Added Pin To Net: NetName=Tare/Unit Pin=Tare/Unit-3
+Added Pin To Net: NetName=Tare/Unit Pin=Tare/Unit-4
+Added Member To Class: ClassName=initial circuit Member=Component C5-.1 uF C0805C104K5RAC7411
+Added Member To Class: ClassName=initial circuit Member=Component C6-.1uF C0805C104K5RAC7411
+Added Member To Class: ClassName=initial circuit Member=Component HX711_lc MTSW-104-XX-X-S-XXX
+Added Member To Class: ClassName=initial circuit Member=Component HX711 out MTSW-104-XX-X-S-XXX
+Added Member To Class: ClassName=initial circuit Member=Component RST(ON) 1825910-2
+Added Member To Class: ClassName=initial circuit Member=Component Tare/Unit 1825910-2
+Added Member To Class: ClassName=initial circuit Member=Component usb  USB3090-XX-X_REVE
+Added Room: Name=initial circuit

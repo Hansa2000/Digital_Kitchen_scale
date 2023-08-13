@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '885012107013'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Wurth Elektronik", "885012107013" (!) = "", "CAPC2012X145N", "Capacitor Chip Non-polarised", "710-885012107013", "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/885012107013?qs=0KOYDY2FL29a055VqgRqNw%3D%3D", "", "", "Multilayer Ceramic Capacitor 4.7uF 0805", "https://katalog.we-online.de/pbs/datasheet/885012107013.pdf", "1.45 mm"
+END_PART
+
+END.

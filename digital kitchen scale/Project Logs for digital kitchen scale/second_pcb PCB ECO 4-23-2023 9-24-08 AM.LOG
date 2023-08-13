@@ -1,0 +1,419 @@
+Added Component: Designator=battery(JST_B2B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/B2B-XH-A(LF)(SN)/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=buttons(SAMTEC_MTSW-104-XX-X-S-XXX)
+Add component (AddParameter): Name = "Availability"; Value = "No availability data"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MTSW-104-12-F-S-850/Samtec/view-part/6593359/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MTSW-104-12-F-S-850"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MTSW-104-12-F-S-850/Samtec/view-part/6593359/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=buttons(SAMTEC_MTSW-104-XX-X-S-XXX)
+Add component (AddParameter): Name = "Availability"; Value = "No availability data"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MTSW-104-12-F-S-850/Samtec/view-part/6593359/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MTSW-104-12-F-S-850"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MTSW-104-12-F-S-850/Samtec/view-part/6593359/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C1-10uF(CAPAE430X550N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/865080340001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "865080340001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-865080340001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/865080340001?qs=0KOYDY2FL2%252BaqRFD837lAw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C2-10uF(CAPAE430X550N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/865080340001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "865080340001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-865080340001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/865080340001?qs=0KOYDY2FL2%252BaqRFD837lAw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C3-10uF(CAPAE430X550N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/865080340001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "865080340001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-865080340001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/865080340001?qs=0KOYDY2FL2%252BaqRFD837lAw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C4-4.7uF(CAPC2012X145N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/pbs/datasheet/885012107013.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "885012107013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-885012107013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/885012107013?qs=0KOYDY2FL29a055VqgRqNw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C5-4.7uF(CAPC2012X145N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/pbs/datasheet/885012107013.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "885012107013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-885012107013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/885012107013?qs=0KOYDY2FL29a055VqgRqNw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=ESP-12F(ESP-12F)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP-12F/AI-Thinker/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AI-Thinker"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP-12F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP-12F/AI-Thinker/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=HX711_lc(SAMTEC_MTSW-104-XX-X-S-XXX)
+Add component (AddParameter): Name = "Availability"; Value = "No availability data"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MTSW-104-12-F-S-850/Samtec/view-part/6593359/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MTSW-104-12-F-S-850"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MTSW-104-12-F-S-850/Samtec/view-part/6593359/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=HX711 out(SAMTEC_MTSW-104-XX-X-S-XXX)
+Add component (AddParameter): Name = "Availability"; Value = "No availability data"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MTSW-104-12-F-S-850/Samtec/view-part/6593359/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MTSW-104-12-F-S-850"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MTSW-104-12-F-S-850/Samtec/view-part/6593359/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED(LEDM3020X140N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.co.uk/datasheet/2/90/CLM3CRKWAKW1156-274590.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wolfspeed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CLM3C-AKW-CUAVB253"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "941-CLM3CAKWCUAVB253"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Cree-LED/CLM3C-AKW-CUAVB253?qs=3AcK5DacLbqERPW6%2FzkoPg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=load cell(SAMTEC_MTSW-104-XX-X-S-XXX)
+Add component (AddParameter): Name = "Availability"; Value = "No availability data"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MTSW-104-12-F-S-850/Samtec/view-part/6593359/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MTSW-104-12-F-S-850"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MTSW-104-12-F-S-850/Samtec/view-part/6593359/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MCP73831(SOT95P280X145-5N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MCP73831T-5ACI/OT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-5 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MCP73831T-5ACI/OT/Microchip/view-part/1037579/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=OLED IN(SAMTEC_MTSW-104-XX-X-S-XXX)
+Add component (AddParameter): Name = "Availability"; Value = "No availability data"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MTSW-104-12-F-S-850/Samtec/view-part/6593359/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MTSW-104-12-F-S-850"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MTSW-104-12-F-S-850/Samtec/view-part/6593359/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=OLED OUT(SAMTEC_MTSW-104-XX-X-S-XXX)
+Add component (AddParameter): Name = "Availability"; Value = "No availability data"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MTSW-104-12-F-S-850/Samtec/view-part/6593359/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MTSW-104-12-F-S-850"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MTSW-104-12-F-S-850/Samtec/view-part/6593359/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=OLED(SAMTEC_MTSW-104-XX-X-S-XXX)
+Add component (AddParameter): Name = "Availability"; Value = "No availability data"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MTSW-104-12-F-S-850/Samtec/view-part/6593359/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MTSW-104-12-F-S-850"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MTSW-104-12-F-S-850/Samtec/view-part/6593359/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ON/Tare (FSM12JH)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=2-1825910-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FSM12JH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "506-FSM12JH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/FSM12JH?qs=qzQkFgQjdxUp2583VNq5KQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=PROG_HEADER(HDR1X6)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1-10K(RESC1608X55N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant with Exemptions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRG0603F10K/10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = ".1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRG0603F10K/10/TE%20Connectivity%20Passive%20Product/view-part/979761/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-1622829-2.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage_Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Added Component: Designator=R2-10K(RESC1608X55N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant with Exemptions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRG0603F10K/10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = ".1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRG0603F10K/10/TE%20Connectivity%20Passive%20Product/view-part/979761/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-1622829-2.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage_Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Added Component: Designator=R 2k(RESC2012X60N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CR0805-JW-202ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cr0805-jw-202elf/bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/pdfs/chpreztr.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CR0805-JW-202ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-CR0805JW-202ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/CR0805-JW-202ELF?qs=wL7NMIHXUPnyGz%2Fa3t%2FGQg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R3-10K(RESC1608X55N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant with Exemptions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRG0603F10K/10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = ".1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRG0603F10K/10/TE%20Connectivity%20Passive%20Product/view-part/979761/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-1622829-2.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage_Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Added Component: Designator=R4-10K(RESC1608X55N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant with Exemptions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRG0603F10K/10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = ".1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRG0603F10K/10/TE%20Connectivity%20Passive%20Product/view-part/979761/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-1622829-2.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage_Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Added Component: Designator=R5-10K(RESC1608X55N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant with Exemptions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRG0603F10K/10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = ".1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRG0603F10K/10/TE%20Connectivity%20Passive%20Product/view-part/979761/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-1622829-2.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage_Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Added Component: Designator=R 15k(RESC2012X70N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/DKDS40/DSANUWW0010935.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-6GEYJ153V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-6GEYJ153V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-6GEYJ153V?qs=gybxhQrZOyE8NVeFJR%2FEkg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R 47k(RESC2012X60N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CR0805-JW-473ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cr0805-jw-473elf/bourns?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/pdfs/chpreztr.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CR0805-JW-473ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-CR0805JW-473ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/CR0805-JW-473ELF?qs=%252BcBkmVQIZ2S5L%2FTv0l5Nkg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R 470(RESC2012X60N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CRCW0805470RFKEAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crcw0805470rfkeac/vishay?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://mouser.componentsearchengine.com/Datasheets/1/CRCW0805470RFKEAC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRCW0805470RFKEAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-CRCW0805470RFKEAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW0805470RFKEAC?qs=E3Y5ESvWgWPsF5leBpDSrQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=TC2117(SOT230P700X180-4N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TC2117-3.3VDBTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tc2117-3.3vdbtr/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/TC2117-3.3VDBTR.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TC2117-3.3VDBTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "579-TC2117-3.3VDBTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/TC2117-3.3VDBTR?qs=AF%252BffTaPb30YsLOBvxArLw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Unit(FSM12JH)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=2-1825910-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FSM12JH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "506-FSM12JH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/FSM12JH?qs=qzQkFgQjdxUp2583VNq5KQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=usb 2.0(GCT_USB3090-XX-X_REVE)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USB3090-XX-X_REVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Netbattery_1 Pin=battery-1
+Added Pin To Net: NetName=GND Pin=battery-2
+Added Pin To Net: NetName=Netbuttons_01 Pin=buttons-01
+Added Pin To Net: NetName=VCC Pin=buttons-01
+Added Pin To Net: NetName=Netbuttons_02 Pin=buttons-02
+Added Pin To Net: NetName=Tare Pin=buttons-02
+Added Pin To Net: NetName=Netbuttons_03 Pin=buttons-03
+Added Pin To Net: NetName=VCC Pin=buttons-03
+Added Pin To Net: NetName=Netbuttons_04 Pin=buttons-04
+Added Pin To Net: NetName=Unit Pin=buttons-04
+Added Pin To Net: NetName=VCC Pin=C1-10uF-1
+Added Pin To Net: NetName=GND Pin=C1-10uF-2
+Added Pin To Net: NetName=VCC Pin=C2-10uF-1
+Added Pin To Net: NetName=GND Pin=C2-10uF-2
+Added Pin To Net: NetName=Netbattery_1 Pin=C3-10uF-1
+Added Pin To Net: NetName=GND Pin=C3-10uF-2
+Added Pin To Net: NetName=GND Pin=C4-4.7uF-1
+Added Pin To Net: NetName=Netbattery_1 Pin=C4-4.7uF-2
+Added Pin To Net: NetName=NetC5-4.7uF_1 Pin=C5-4.7uF-1
+Added Pin To Net: NetName=GND Pin=C5-4.7uF-2
+Added Pin To Net: NetName=RST Pin=ESP-12F-1
+Added Pin To Net: NetName=BatLev Pin=ESP-12F-2
+Added Pin To Net: NetName=NetESP-12F_3 Pin=ESP-12F-3
+Added Pin To Net: NetName=Unit Pin=ESP-12F-5
+Added Pin To Net: NetName=DT Pin=ESP-12F-6
+Added Pin To Net: NetName=SCK Pin=ESP-12F-7
+Added Pin To Net: NetName=VCC Pin=ESP-12F-8
+Added Pin To Net: NetName=GND Pin=ESP-12F-9
+Added Pin To Net: NetName=Tare Pin=ESP-12F-10
+Added Pin To Net: NetName=FLASH Pin=ESP-12F-12
+Added Pin To Net: NetName=SDA Pin=ESP-12F-13
+Added Pin To Net: NetName=SCL Pin=ESP-12F-14
+Added Pin To Net: NetName=RX Pin=ESP-12F-15
+Added Pin To Net: NetName=TX Pin=ESP-12F-16
+Added Pin To Net: NetName=A+ Pin=HX711_lc-01
+Added Pin To Net: NetName=A- Pin=HX711_lc-02
+Added Pin To Net: NetName=E- Pin=HX711_lc-03
+Added Pin To Net: NetName=E+ Pin=HX711_lc-04
+Added Pin To Net: NetName=VCC Pin=HX711 out-01
+Added Pin To Net: NetName=SCK Pin=HX711 out-02
+Added Pin To Net: NetName=DT Pin=HX711 out-03
+Added Pin To Net: NetName=GND Pin=HX711 out-04
+Added Pin To Net: NetName=NetLED_1 Pin=LED-1
+Added Pin To Net: NetName=NetLED_2 Pin=LED-2
+Added Pin To Net: NetName=A+ Pin=load cell-01
+Added Pin To Net: NetName=A- Pin=load cell-02
+Added Pin To Net: NetName=E- Pin=load cell-03
+Added Pin To Net: NetName=E+ Pin=load cell-04
+Added Pin To Net: NetName=NetLED_1 Pin=MCP73831-1
+Added Pin To Net: NetName=GND Pin=MCP73831-2
+Added Pin To Net: NetName=Netbattery_1 Pin=MCP73831-3
+Added Pin To Net: NetName=NetC5-4.7uF_1 Pin=MCP73831-4
+Added Pin To Net: NetName=NetMCP73831_5 Pin=MCP73831-5
+Added Pin To Net: NetName=GND Pin=OLED-01
+Added Pin To Net: NetName=VCC Pin=OLED-02
+Added Pin To Net: NetName=SCL Pin=OLED-03
+Added Pin To Net: NetName=SDA Pin=OLED-04
+Added Pin To Net: NetName=NetOLED IN_01 Pin=OLED IN-01
+Added Pin To Net: NetName=NetOLED IN_02 Pin=OLED IN-02
+Added Pin To Net: NetName=NetOLED IN_03 Pin=OLED IN-03
+Added Pin To Net: NetName=NetOLED IN_04 Pin=OLED IN-04
+Added Pin To Net: NetName=NetOLED IN_04 Pin=OLED OUT-01
+Added Pin To Net: NetName=NetOLED IN_03 Pin=OLED OUT-02
+Added Pin To Net: NetName=NetOLED IN_02 Pin=OLED OUT-03
+Added Pin To Net: NetName=NetOLED IN_01 Pin=OLED OUT-04
+Added Pin To Net: NetName=Netbuttons_01 Pin=ON/Tare -1
+Added Pin To Net: NetName=Netbuttons_02 Pin=ON/Tare -2
+Added Pin To Net: NetName=GND Pin=PROG_HEADER-1
+Added Pin To Net: NetName=FLASH Pin=PROG_HEADER-2
+Added Pin To Net: NetName=RX Pin=PROG_HEADER-4
+Added Pin To Net: NetName=TX Pin=PROG_HEADER-5
+Added Pin To Net: NetName=VCC Pin=PROG_HEADER-6
+Added Pin To Net: NetName=VCC Pin=R1-10K-1
+Added Pin To Net: NetName=RST Pin=R1-10K-2
+Added Pin To Net: NetName=VCC Pin=R2-10K-1
+Added Pin To Net: NetName=NetESP-12F_3 Pin=R2-10K-2
+Added Pin To Net: NetName=GND Pin=R 2k-1
+Added Pin To Net: NetName=NetMCP73831_5 Pin=R 2k-2
+Added Pin To Net: NetName=FLASH Pin=R3-10K-1
+Added Pin To Net: NetName=VCC Pin=R3-10K-2
+Added Pin To Net: NetName=GND Pin=R4-10K-1
+Added Pin To Net: NetName=Tare Pin=R4-10K-2
+Added Pin To Net: NetName=GND Pin=R5-10K-1
+Added Pin To Net: NetName=Unit Pin=R5-10K-2
+Added Pin To Net: NetName=GND Pin=R 15k-1
+Added Pin To Net: NetName=BatLev Pin=R 15k-2
+Added Pin To Net: NetName=BatLev Pin=R 47k-1
+Added Pin To Net: NetName=Netbattery_1 Pin=R 47k-2
+Added Pin To Net: NetName=NetC5-4.7uF_1 Pin=R 470-1
+Added Pin To Net: NetName=NetLED_2 Pin=R 470-2
+Added Pin To Net: NetName=GND Pin=TC2117-1
+Added Pin To Net: NetName=VCC Pin=TC2117-2
+Added Pin To Net: NetName=Netbattery_1 Pin=TC2117-3
+Added Pin To Net: NetName=Netbuttons_03 Pin=Unit-1
+Added Pin To Net: NetName=Netbuttons_04 Pin=Unit-2
+Added Pin To Net: NetName=NetC5-4.7uF_1 Pin=usb 2.0-1
+Added Pin To Net: NetName=GND Pin=usb 2.0-5
+Added Member To Class: ClassName=initial circuit Member=Component battery B2B-XH-A(LF)(SN)
+Added Member To Class: ClassName=initial circuit Member=Component buttons MTSW-104-XX-X-S-XXX
+Added Member To Class: ClassName=second_pcb Member=Component buttons MTSW-104-XX-X-S-XXX
+Added Member To Class: ClassName=initial circuit Member=Component C1-10uF 865080340001
+Added Member To Class: ClassName=initial circuit Member=Component C2-10uF 865080340001
+Added Member To Class: ClassName=initial circuit Member=Component C3-10uF 865080340001
+Added Member To Class: ClassName=initial circuit Member=Component C4-4.7uF 885012107013
+Added Member To Class: ClassName=initial circuit Member=Component C5-4.7uF 885012107013
+Added Member To Class: ClassName=initial circuit Member=Component ESP-12F
+Added Member To Class: ClassName=initial circuit Member=Component HX711_lc MTSW-104-XX-X-S-XXX
+Added Member To Class: ClassName=initial circuit Member=Component HX711 out MTSW-104-XX-X-S-XXX
+Added Member To Class: ClassName=initial circuit Member=Component LED CLM3C-AKW-CUAVB253
+Added Member To Class: ClassName=initial circuit Member=Component load cell MTSW-104-XX-X-S-XXX
+Added Member To Class: ClassName=initial circuit Member=Component MCP73831 MCP73831T-5ACI/OT
+Added Member To Class: ClassName=second_pcb Member=Component OLED IN MTSW-104-XX-X-S-XXX
+Added Member To Class: ClassName=second_pcb Member=Component OLED OUT MTSW-104-XX-X-S-XXX
+Added Member To Class: ClassName=initial circuit Member=Component OLED MTSW-104-XX-X-S-XXX
+Added Member To Class: ClassName=second_pcb Member=Component ON/Tare  FSM12JH
+Added Member To Class: ClassName=initial circuit Member=Component PROG_HEADER Header 6
+Added Member To Class: ClassName=initial circuit Member=Component R1-10K CRG0603F10K/10
+Added Member To Class: ClassName=initial circuit Member=Component R2-10K CRG0603F10K/10
+Added Member To Class: ClassName=initial circuit Member=Component R 2k CR0805-JW-202ELF
+Added Member To Class: ClassName=initial circuit Member=Component R3-10K CRG0603F10K/10
+Added Member To Class: ClassName=initial circuit Member=Component R4-10K CRG0603F10K/10
+Added Member To Class: ClassName=initial circuit Member=Component R5-10K CRG0603F10K/10
+Added Member To Class: ClassName=initial circuit Member=Component R 15k ERJ-6GEYJ153V
+Added Member To Class: ClassName=initial circuit Member=Component R 47k CR0805-JW-473ELF
+Added Member To Class: ClassName=initial circuit Member=Component R 470 CRCW0805470RFKEAC
+Added Member To Class: ClassName=initial circuit Member=Component TC2117 TC2117-3.3VDBTR
+Added Member To Class: ClassName=second_pcb Member=Component Unit FSM12JH
+Added Member To Class: ClassName=initial circuit Member=Component usb 2.0 USB3090-XX-X_REVE

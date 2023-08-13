@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CRCW0805470RFKEAC'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "CRCW0805470RFKEAC" (!) = "", "RESC2012X60N", "Resistor Chip", "71-CRCW0805470RFKEAC", "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW0805470RFKEAC?qs=E3Y5ESvWgWPsF5leBpDSrQ%3D%3D", "CRCW0805470RFKEAC", "https://www.arrow.com/en/products/crcw0805470rfkeac/vishay?region=nac", "Thick Film Resistors - SMD 1/8Watt 470ohms 1% Commercial Use", "https://mouser.componentsearchengine.com/Datasheets/1/CRCW0805470RFKEAC.pdf", "0.6 mm"
+END_PART
+
+END.

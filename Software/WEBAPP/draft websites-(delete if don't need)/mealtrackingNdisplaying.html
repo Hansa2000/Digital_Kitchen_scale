@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Calorie Tracker</title>
+  <style>
+    /* CSS for the scale layout (unchanged) */
+     #scaleContainer {
+      width: 300px;
+      margin: 50px auto;
+      background-color: #f0f0f0;
+      border-radius: 10px;
+      padding: 20px;
+      text-align: center;
+    }
+
+    #weight {
+      font-size: 48px;
+      margin-top: 0;
+    }
+
+    .button {
+      display: inline-block;
+      padding: 10px 20px;
+      margin: 10px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    
+    /* CSS for the button states */
+    .button:hover {
+      background-color: #45a049;
+    }
+
+    .button:active {
+      background-color: #3e8e41;
+    }
+
+    #mealForm {
+      margin: 20px auto;
+      max-width: 300px;
+    }
+
+    #mealForm label {
+      display: block;
+      margin-bottom: 5px;
+    }
+
+    #mealForm input[type="text"] {
+      width: 100%;
+      padding: 5px;
+      border-radius: 4px;
+      border: 1px solid #ccc;
+    }
+
+    #mealForm input[type="submit"] {
+      display: block;
+      margin-top: 10px;
+      padding: 10px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    /* CSS for the meal tracking section */
+    #mealTracking {
+      margin: 20px auto;
+      max-width: 300px;
+      padding: 10px;
+      background-color: #f0f0f0;
+      border-radius: 10px;
+    }
+
+    #mealTracking h2 {
+      margin-top: 0;
+    }
+
+    #currentMeal {
+      margin-bottom: 10px;
+    }
+  </style>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+<body>
+  <div id="scaleContainer">
+    <h1>Smart Digital Kitchen Scale</h1>
+    <h2 id="weight">0</h2>
+    <p>grams</p>
+    <button class="button" id="recordButton">Record</button>
+    <button class="button" id="tareButton">Tare</button>
+    <button class="button" id="unitButton">Toggle Unit</button>
+  </div>
+
+  <div id="mealForm">
+    <h2>Track Your Meal</h2>
+    <label for="foodName">Food Name:</label>
+    <input type="text" id="foodName" placeholder="Enter food name">
+
+    <label for="calories">Calories:</label>
+    <input type="text" id="calories" placeholder="Enter calorie count">
+
+    <input type="submit" id="submitMeal" value="Add to Meal">
+  </div>
+
+  <div id="mealTracking">
+    <h2>Currently Recording Meal</h2>
+    <div id="currentMeal"></div>
+  </div>
+
+  <script>
+    // Assume the weight measurement is obtained through a WebSocket connection or AJAX request.
+    // Update the "weight" element with the received weight measurement.
+
+    // Example code for updating the weight measurement (unchanged)
+
+    // Example code for updating the meal tracking section
+    $(document).ready(function() {
+      var currentMeal = {
+        foodName: '',
+        calories: 0
+      };
+
+      $("#submitMeal").click(function(event) {
+        event.preventDefault();
+        var foodName = $("#foodName").val();
+        var calories = $("#calories").val();
+
+        if (foodName !== "" && calories !== "") {
+          // Handle adding the meal to the tracker
+          console.log("Added to meal: " + foodName + " - " + calories + " calories");
+
+          currentMeal.foodName = foodName;
+          currentMeal.calories = parseInt(calories);
+          updateCurrentMeal();
+        }
+      });
+
+      function updateCurrentMeal() {
+        var currentMealElement = $("#currentMeal");
+        currentMealElement.html('<strong>' + currentMeal.foodName + '</strong> - ' + currentMeal.calories + ' calories');
+      }
+    });
+  </script>
+</body>
+</html>
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+.RCA06032K00JNEA :1 ;Thick Film Resistors - SMD RCA0603 2K0 5% 200 ET1 e3
+RESC1608X50N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN RCA06032K00JNEA
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (RCA06032K00JNEA)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.vishay.com/docs/20037/rcae3.pdf)
+~!Height (0.5mm)
+~!3D_Model (RCA06032K00JNEA)
+RCA06032K00JNEA
+1.1!U 2.1!U 

@@ -1,0 +1,18 @@
+.885012107013 :1 ;Multilayer Ceramic Capacitor 4.7uF 0805
+CAPC2012X145N
+*STM C
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN 885012107013
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (885012107013)
+~!Mouser Part Number (710-885012107013)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/885012107013?qs=0KOYDY2FL29a055VqgRqNw%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://katalog.we-online.de/pbs/datasheet/885012107013.pdf)
+~!Height (1.45mm)
+~!3D_Model (885012107013)
+"885012107013"
+1.1!U 2.1!U 

@@ -1,0 +1,139 @@
+;Proteus Design Interchange Format
+
+(PDIF
+  (vendor "Labcenter Electronics")
+  (version 1 0)
+  (library
+    (part "CRGCQ0402F15K"
+      (family "RES")
+      (package "RESC1005X40N")
+      (description "_Fixed_Resistor_CRGCQ_0402_15K_1%")
+      (attribute "PKG_TYPE" "RESC1005X40N")
+      (attribute "COMMENT" "3-2176337-9")
+      (gate
+        (swap 1)
+        (symbol "CRGCQ0402F15K")
+        (pin "1" 1 (type PS))
+        (pin "2" 2 (type PS))
+      )
+    )
+    (symbol "CRGCQ0402F15K"
+      (units THOU)
+      (graphic
+        (stroke 10.0)
+        (path (pt -200.0 0.0) (pt -175.0 75.0))
+      )
+      (graphic
+        (stroke 10.0)
+        (path (pt -175.0 75.0) (pt -125.0 -75.0))
+      )
+      (graphic
+        (stroke 10.0)
+        (path (pt -125.0 -75.0) (pt -75.0 75.0))
+      )
+      (graphic
+        (stroke 10.0)
+        (path (pt -75.0 75.0) (pt -25.0 -75.0))
+      )
+      (graphic
+        (stroke 10.0)
+        (path (pt -25.0 -75.0) (pt 25.0 75.0))
+      )
+      (graphic
+        (stroke 10.0)
+        (path (pt 25.0 75.0) (pt 75.0 -75.0))
+      )
+      (graphic
+        (stroke 10.0)
+        (path (pt 75.0 -75.0) (pt 125.0 75.0))
+      )
+      (graphic
+        (stroke 10.0)
+        (path (pt 125.0 75.0) (pt 175.0 -75.0))
+      )
+      (graphic
+        (stroke 10.0)
+        (path (pt 175.0 -75.0) (pt 200.0 0.0))
+      )
+      (terminal
+        (body (symbol "PIN_R0_U_L200") (pt -400.0 0.0) (rot 0) (mir 0) (visible true))
+        (name (pt 239.37 0.0) (rot 0) (just MIDDLE LEFT) (visible false))
+        (number (pt -39.37 0.0) (rot 0) (just MIDDLE LEFT) (visible false))
+      )
+      (terminal
+        (body (symbol "PIN_R180_U_L200") (pt 400.0 0.0) (rot 0) (mir 0) (visible true))
+        (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible false))
+        (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible false))
+      )
+    )
+    (symbol "PIN_R0_U_L200"
+      (units THOU)
+      (graphic
+        (stroke 6.5)
+        (path (pt 0.0 0.0) (pt 200.0 0.0))
+      )
+    )
+    (symbol "PIN_R180_U_L200"
+      (units THOU)
+      (graphic
+        (stroke 6.5)
+        (path (pt 0.0 0.0) (pt -200.0 0.0))
+      )
+    )
+    (package "RESC1005X40N"
+      (units THOU)
+      (layer TASM
+        (graphic
+          (stroke 5.0)
+          (path (pt 21.65 -11.02) (pt -21.65 -11.02))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt 21.65 11.02) (pt -21.65 11.02))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt 21.65 -11.02) (pt 21.65 11.02))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -21.65 -11.02) (pt -21.65 11.02))
+        )
+      )
+      (layer OCCA
+        (graphic
+          (stroke 1.97)
+          (path (pt -37.99 -21.65) (pt 37.99 -21.65))
+        )
+        (graphic
+          (stroke 1.97)
+          (path (pt -37.99 21.65) (pt 37.99 21.65))
+        )
+        (graphic
+          (stroke 1.97)
+          (path (pt -37.99 -21.65) (pt -37.99 21.65))
+        )
+        (graphic
+          (stroke 1.97)
+          (path (pt 37.99 -21.65) (pt 37.99 21.65))
+        )
+      )
+      (leg 1 (pt -17.13 0) (padstack 1))
+      (leg 2 (pt 17.13 0) (padstack 2))
+      (padstack 1
+        (pad (layer TCOP) (rectf 22.05 23.62 0 0.0 90.0))
+        (pad (layer TRES) (rectf 22.05 23.62 0 0.0 90.0))
+        (pad (layer TPST) (rectf 22.05 23.62 0 0.0 90.0))
+      )
+      (padstack 2
+        (pad (layer TCOP) (rectf 22.05 23.62 0 0.0 90.0))
+        (pad (layer TRES) (rectf 22.05 23.62 0 0.0 90.0))
+        (pad (layer TPST) (rectf 22.05 23.62 0 0.0 90.0))
+      )
+      (model CRGCQ0402F15K.step
+        (euler 0 0 0)
+        (offset 0 0 0)
+      )
+    )
+  )
+)

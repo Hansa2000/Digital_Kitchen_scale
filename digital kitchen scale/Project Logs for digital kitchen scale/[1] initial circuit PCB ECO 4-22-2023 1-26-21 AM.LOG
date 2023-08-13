@@ -1,0 +1,31 @@
+Added Component: Designator=C4-4.7uF(CAPC2012X145N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/pbs/datasheet/885012107013.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "885012107013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-885012107013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/885012107013?qs=0KOYDY2FL29a055VqgRqNw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C5-4.7uF(CAPC2012X145N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/pbs/datasheet/885012107013.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "885012107013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-885012107013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/885012107013?qs=0KOYDY2FL29a055VqgRqNw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C4-4.7uF-1
+Added Pin To Net: NetName=NetB1_3 Pin=C4-4.7uF-2
+Added Pin To Net: NetName=NetB2_4 Pin=C5-4.7uF-1
+Added Pin To Net: NetName=GND Pin=C5-4.7uF-2
+Added Member To Class: ClassName=initial circuit Member=Component C2-10uF  865080340001
+Added Member To Class: ClassName=initial circuit Member=Component C3-10uF  865080340001
+Added Member To Class: ClassName=initial circuit Member=Component C4-4.7uF 885012107013
+Added Member To Class: ClassName=initial circuit Member=Component C5-4.7uF 885012107013
+Added Member To Class: ClassName=initial circuit Member=Component R1-10K  CRG0603F10K/10
+Added Member To Class: ClassName=initial circuit Member=Component R2-10K  CRG0603F10K/10
+Added Member To Class: ClassName=initial circuit Member=Component R3-10K  CRG0603F10K/10
+Added Member To Class: ClassName=initial circuit Member=Component R4-10K  CRG0603F10K/10
+Added Member To Class: ClassName=initial circuit Member=Component R5-10K  CRG0603F10K/10

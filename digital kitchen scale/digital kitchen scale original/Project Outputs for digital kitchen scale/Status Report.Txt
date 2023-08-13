@@ -1,0 +1,23 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [digital kitchen scale.PrjPcb]
+   Generated File[final_PCB.GTO]
+   Generated File[final_PCB.GTS]
+   Generated File[final_PCB.GTL]
+   Generated File[final_PCB.GBL]
+   Generated File[final_PCB.GBS]
+   Generated File[final_PCB.GBO]
+   Generated File[final_PCB.GM1]
+   Generated File[final_PCB.GM2]
+   Generated File[final_PCB.GM3]
+   Generated File[final_PCB.GKO]
+   Generated File[final_PCB.GM]
+   Generated File[final_PCB.RUL]
+   Generated File[final_PCB.EXTREP]
+   Generated File[final_PCB.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 6:32:46 PM On 5/2/2023

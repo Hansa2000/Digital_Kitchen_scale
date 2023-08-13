@@ -1,0 +1,7 @@
+File names and cotaining designs :
+
+1.top lid - top lid design
+2.bottom box - bottom box design
+3.design2 - main design
+4.mybottom - mold design of bottom box
+5.advanced_design_assembly - partially devoloped fully assembly design

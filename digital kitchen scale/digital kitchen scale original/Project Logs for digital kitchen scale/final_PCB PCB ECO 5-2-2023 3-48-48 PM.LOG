@@ -1,0 +1,94 @@
+Removed Pin From Net: NetName=GND Pin=R4-10K-1
+Removed Pin From Net: NetName=Tare/Unit Pin=R4-10K-2
+Removed Pin From Net: NetName=GND Pin=R5-10K-1
+Removed Pin From Net: NetName=NetESP-12F_5 Pin=R5-10K-2
+Removed Pin From Net: NetName=VCC Pin=R6-10K-1
+Removed Pin From Net: NetName=NetESP-12F_11 Pin=R6-10K-2
+Removed Member From Class: ClassName=initial circuit Member=R5-10K
+Change Component Footprint: Designator=R1-10K Old Footprint=RESC1608X55N New Footprint=RESC2013X65N
+Change Component Footprint: Designator=R2-10K Old Footprint=RESC1608X55N New Footprint=RESC2013X65N
+Change Component Footprint: Designator=R3-10K Old Footprint=RESC1608X55N New Footprint=RESC2013X65N
+Change Component Footprint: Designator=R4-10K Old Footprint=RESC1608X55N New Footprint=RESC2013X65N
+Change Component Footprint: Designator=R6-10K Old Footprint=RESC1608X55N New Footprint=RESC2013X65N
+Change Component Footprint: Designator=R7-10K Old Footprint=RESC1608X55N New Footprint=RESC2013X65N
+Change Component Footprint: Designator=R8-10K Old Footprint=RESC1608X55N New Footprint=RESC2013X65N
+Change Component Comment : Designator=R1-10K Old Comment=CRG0603F10K/10 New Comment=CRGCQ0805J10K
+Change Component Comment : Designator=R2-10K Old Comment=CRG0603F10K/10 New Comment=CRGCQ0805J10K
+Change Component Comment : Designator=R3-10K Old Comment=CRG0603F10K/10 New Comment=CRGCQ0805J10K
+Change Component Comment : Designator=R4-10K Old Comment=CRG0603F10K/10 New Comment=CRGCQ0805J10K
+Change Component Comment : Designator=R6-10K Old Comment=CRG0603F10K/10 New Comment=CRGCQ0805J10K
+Change Component Comment : Designator=R7-10K Old Comment=CRG0603F10K/10 New Comment=CRGCQ0805J10K
+Change Component Comment : Designator=R8-10K Old Comment=CRG0603F10K/10 New Comment=CRGCQ0805J10K
+Change component parameters: Designator = "R1-10K" ("R1-10K"); Footprint = "RESC1608X55N"; UniqueID = "\LMXVCXTG" ("\LMXVCXTG")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F1773204-3%7F1%7Fpdf%7FEnglish%7FENG_DS_1773204-3_1.pdf%7F2176341-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRGCQ0805J10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "279-CRGCQ0805J10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/CRGCQ0805J10K?qs=wUXugUrL1qw7JO9BgWPrfA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2-10K" ("R2-10K"); Footprint = "RESC1608X55N"; UniqueID = "\MHGGBESZ" ("\MHGGBESZ")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F1773204-3%7F1%7Fpdf%7FEnglish%7FENG_DS_1773204-3_1.pdf%7F2176341-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRGCQ0805J10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "279-CRGCQ0805J10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/CRGCQ0805J10K?qs=wUXugUrL1qw7JO9BgWPrfA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3-10K" ("R3-10K"); Footprint = "RESC1608X55N"; UniqueID = "\TLCVYXFV" ("\TLCVYXFV")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F1773204-3%7F1%7Fpdf%7FEnglish%7FENG_DS_1773204-3_1.pdf%7F2176341-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRGCQ0805J10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "279-CRGCQ0805J10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/CRGCQ0805J10K?qs=wUXugUrL1qw7JO9BgWPrfA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4-10K" ("R4-10K"); Footprint = "RESC1608X55N"; UniqueID = "\KJFGBMFG" ("\KJFGBMFG")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F1773204-3%7F1%7Fpdf%7FEnglish%7FENG_DS_1773204-3_1.pdf%7F2176341-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRGCQ0805J10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "279-CRGCQ0805J10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/CRGCQ0805J10K?qs=wUXugUrL1qw7JO9BgWPrfA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6-10K" ("R6-10K"); Footprint = "RESC1608X55N"; UniqueID = "\MCPZYQNK" ("\MCPZYQNK")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F1773204-3%7F1%7Fpdf%7FEnglish%7FENG_DS_1773204-3_1.pdf%7F2176341-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRGCQ0805J10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "279-CRGCQ0805J10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/CRGCQ0805J10K?qs=wUXugUrL1qw7JO9BgWPrfA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7-10K" ("R7-10K"); Footprint = "RESC1608X55N"; UniqueID = "\MBOFZEEJ" ("\MBOFZEEJ")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F1773204-3%7F1%7Fpdf%7FEnglish%7FENG_DS_1773204-3_1.pdf%7F2176341-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRGCQ0805J10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "279-CRGCQ0805J10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/CRGCQ0805J10K?qs=wUXugUrL1qw7JO9BgWPrfA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8-10K" ("R8-10K"); Footprint = "RESC1608X55N"; UniqueID = "\EORZMDBZ" ("\EORZMDBZ")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F1773204-3%7F1%7Fpdf%7FEnglish%7FENG_DS_1773204-3_1.pdf%7F2176341-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRGCQ0805J10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "279-CRGCQ0805J10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/CRGCQ0805J10K?qs=wUXugUrL1qw7JO9BgWPrfA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R9-10K(RESC2013X65N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F1773204-3%7F1%7Fpdf%7FEnglish%7FENG_DS_1773204-3_1.pdf%7F2176341-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRGCQ0805J10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "279-CRGCQ0805J10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/CRGCQ0805J10K?qs=wUXugUrL1qw7JO9BgWPrfA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC2013X65N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CRGCQ0805J10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crgcq0805j10k/te-connectivity?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F1773204-3%7F1%7Fpdf%7FEnglish%7FENG_DS_1773204-3_1.pdf%7F2176341-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRGCQ0805J10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "279-CRGCQ0805J10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/CRGCQ0805J10K?qs=wUXugUrL1qw7JO9BgWPrfA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=R4-10K-1
+Added Pin To Net: NetName=NetESP-12F_11 Pin=R4-10K-2
+Added Pin To Net: NetName=NetESP-12F_5 Pin=R6-10K-1
+Added Pin To Net: NetName=GND Pin=R6-10K-2
+Added Pin To Net: NetName=Tare/Unit Pin=R9-10K-1
+Added Pin To Net: NetName=GND Pin=R9-10K-2
+Added Member To Class: ClassName=initial circuit Member=Component R9-10K CRGCQ0805J10K
+Added Member To Class: ClassName=initial circuit Member=Component R? CRGCQ0805J10K

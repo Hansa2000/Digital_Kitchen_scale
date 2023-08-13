@@ -1,0 +1,145 @@
+;Proteus Design Interchange Format
+
+(PDIF
+  (vendor "Labcenter Electronics")
+  (version 1 0)
+  (library
+    (part "CRG0603F10K10"
+      (family "RES")
+      (package "RESC1608X55N")
+      (description "Thick_Film_Resistors_-_SMD_CRG0603_1%_10K_10K_RL")
+      (attribute "PKG_TYPE" "RESC1608X55N")
+      (attribute "COMMENT" "1622829-2")
+      (attribute "TOLERANCE" "1%")
+      (attribute "EU_ROHS_COMPLIANCE" "Compliant_with_Exemptions")
+      (attribute "VOLTAGE_RATING" "50_V")
+      (attribute "RESISTANCE" "10K_")
+      (attribute "PACKAGE" "0603")
+      (attribute "POWER_RATING" ".1_W")
+      (gate
+        (swap 1)
+        (symbol "CRG0603F10K10")
+        (pin "1" 1 (type PS))
+        (pin "2" 2 (type PS))
+      )
+    )
+    (symbol "CRG0603F10K10"
+      (units THOU)
+      (graphic
+        (stroke 10.0)
+        (path (pt -200.0 0.0) (pt -175.0 75.0))
+      )
+      (graphic
+        (stroke 10.0)
+        (path (pt -175.0 75.0) (pt -125.0 -75.0))
+      )
+      (graphic
+        (stroke 10.0)
+        (path (pt -125.0 -75.0) (pt -75.0 75.0))
+      )
+      (graphic
+        (stroke 10.0)
+        (path (pt -75.0 75.0) (pt -25.0 -75.0))
+      )
+      (graphic
+        (stroke 10.0)
+        (path (pt -25.0 -75.0) (pt 25.0 75.0))
+      )
+      (graphic
+        (stroke 10.0)
+        (path (pt 25.0 75.0) (pt 75.0 -75.0))
+      )
+      (graphic
+        (stroke 10.0)
+        (path (pt 75.0 -75.0) (pt 125.0 75.0))
+      )
+      (graphic
+        (stroke 10.0)
+        (path (pt 125.0 75.0) (pt 175.0 -75.0))
+      )
+      (graphic
+        (stroke 10.0)
+        (path (pt 175.0 -75.0) (pt 200.0 0.0))
+      )
+      (terminal
+        (body (symbol "PIN_R0_U_L200") (pt -400.0 0.0) (rot 0) (mir 0) (visible true))
+        (name (pt 239.37 0.0) (rot 0) (just MIDDLE LEFT) (visible false))
+        (number (pt -39.37 0.0) (rot 0) (just MIDDLE LEFT) (visible false))
+      )
+      (terminal
+        (body (symbol "PIN_R180_U_L200") (pt 400.0 0.0) (rot 0) (mir 0) (visible true))
+        (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible false))
+        (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible false))
+      )
+    )
+    (symbol "PIN_R0_U_L200"
+      (units THOU)
+      (graphic
+        (stroke 6.5)
+        (path (pt 0.0 0.0) (pt 200.0 0.0))
+      )
+    )
+    (symbol "PIN_R180_U_L200"
+      (units THOU)
+      (graphic
+        (stroke 6.5)
+        (path (pt 0.0 0.0) (pt -200.0 0.0))
+      )
+    )
+    (package "RESC1608X55N"
+      (units THOU)
+      (layer OCCA
+        (graphic
+          (stroke 1.97)
+          (path (pt -57.68 -29.02) (pt 57.68 -29.02))
+        )
+        (graphic
+          (stroke 1.97)
+          (path (pt -57.68 29.02) (pt 57.68 29.02))
+        )
+        (graphic
+          (stroke 1.97)
+          (path (pt -57.68 -29.02) (pt -57.68 29.02))
+        )
+        (graphic
+          (stroke 1.97)
+          (path (pt 57.68 -29.02) (pt 57.68 29.02))
+        )
+      )
+      (layer TASM
+        (graphic
+          (stroke 5.0)
+          (path (pt 33.46 -18.9) (pt -33.46 -18.9))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt 33.46 18.9) (pt -33.46 18.9))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt 33.46 -18.9) (pt 33.46 18.9))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -33.46 -18.9) (pt -33.46 18.9))
+        )
+      )
+      (leg 1 (pt -30.71 0) (padstack 1))
+      (leg 2 (pt 30.71 0) (padstack 2))
+      (padstack 1
+        (pad (layer TCOP) (rectf 34.25 38.19 0 0.0 90.0))
+        (pad (layer TRES) (rectf 34.25 38.19 0 0.0 90.0))
+        (pad (layer TPST) (rectf 34.25 38.19 0 0.0 90.0))
+      )
+      (padstack 2
+        (pad (layer TCOP) (rectf 34.25 38.19 0 0.0 90.0))
+        (pad (layer TRES) (rectf 34.25 38.19 0 0.0 90.0))
+        (pad (layer TPST) (rectf 34.25 38.19 0 0.0 90.0))
+      )
+      (model CRG0603F10K_10.step
+        (euler 0 0 0)
+        (offset 0 0 0)
+      )
+    )
+  )
+)

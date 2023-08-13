@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=PROG_HEADER NewDesignator=PROG HEADER
+Change Component Designator: OldDesignator=R 47k NewDesignator=R47k
+Change Component Designator: OldDesignator=R 470 NewDesignator=R470

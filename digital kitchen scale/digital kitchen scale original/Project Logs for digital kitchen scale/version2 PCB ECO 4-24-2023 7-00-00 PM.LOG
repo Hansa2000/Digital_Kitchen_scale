@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=R5-10K-1
+Removed Member From Class: ClassName=initial circuit Member=R5-10K
+Added Pin To Net: NetName=RST Pin=buttons-02
+Change Net Name : Old Net Name=NetB1_3 New Net Name=Netbattery_1
+Change Net Name : Old Net Name=NetIC1_3 New Net Name=NetESP-12F_3
+Change Net Name : Old Net Name=usb_vcc New Net Name=NetC5-4.7uF_1
+Added Pin To Net: NetName=Tare/Unit Pin=buttons-04
+Added Pin To Net: NetName=Tare/Unit Pin=ESP-12F-10
+Added Pin To Net: NetName=Tare/Unit Pin=R4-10K-2
+Added Net: Name=Tare/Unit

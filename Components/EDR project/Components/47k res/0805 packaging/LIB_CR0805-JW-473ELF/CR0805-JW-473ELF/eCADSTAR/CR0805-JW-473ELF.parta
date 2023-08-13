@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_339539"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-09:22:32)
+    (utime 2023-03-07-09:22:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "CR0805-JW-473ELF")
+)
+
+
+(pinAssign "ECS_339539"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-09:22:32)
+    (utime 2023-03-07-09:22:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_339539")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "CR0805-JW-473ELF")
+)
+
+
+(part "CR0805-JW-473ELF"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-09:22:32)
+    (utime 2023-03-07-09:22:32)
+    (packageRef "CR0805-JW-473ELF")
+    (pinAssignRef "ECS_339539")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "R")
+    (property "description" "Bourns CR0805 Series Thick Film Surface Mount Resistor 0805 Case 47k 0.125W +/-200ppm/C")
+    (property "Mouser_Part_Number" "652-CR0805JW-473ELF")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/CR0805-JW-473ELF?qs=%252BcBkmVQIZ2S5L%2FTv0l5Nkg%3D%3D")
+    (property "Manufacturer_Name" "Bourns")
+    (property "Manufacturer_Part_Number" "CR0805-JW-473ELF")
+    (property "Datasheet_Link" "https://www.bourns.com/pdfs/chpreztr.pdf")
+    (property "compAreaTopHeight" 0.6)
+)
+
+

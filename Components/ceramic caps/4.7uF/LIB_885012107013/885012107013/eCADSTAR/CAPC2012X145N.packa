@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "885012107013"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-04-27-10:14:59)
+    (mountForm default
+        (footprintRef "CAPC2012X145N")
+        (spec "System")
+    )
+)

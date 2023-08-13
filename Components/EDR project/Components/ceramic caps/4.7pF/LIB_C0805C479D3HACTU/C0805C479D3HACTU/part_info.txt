@@ -1,0 +1,9 @@
+Manufacturer=KEMET
+PartNumber=C0805C479D3HACTU
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=3.1
+Released=2022-01-31 06:41:11
+Downloaded=2023-04-19 09:25:05
+3D=Y

@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=battery NewDesignator=J?
+Added Component: Designator=C3-10uF (CAPAE430X550N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/865080340001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "865080340001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-865080340001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/865080340001?qs=0KOYDY2FL2%252BaqRFD837lAw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=bat vcc Pin=C3-10uF -1
+Added Pin To Net: NetName=GND Pin=C3-10uF -2
+Change Net Name : Old Net Name=bat vcc New Net Name=NetB1_3
+Change Net Name : Old Net Name=usb vcc New Net Name=NetC5-4.7uF_1
+Added Member To Class: ClassName=initial circuit Member=Component C3-10uF  865080340001

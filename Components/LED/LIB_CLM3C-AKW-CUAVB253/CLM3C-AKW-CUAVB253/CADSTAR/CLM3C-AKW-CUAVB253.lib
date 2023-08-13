@@ -1,0 +1,17 @@
+.CLM3C-AKW-CUAVB253 :1 ;Standard LEDs - SMD Amber LED Cree PLCC2 1 in 1 SMD LED CLM3C-RKW/AKW
+LEDM3020X140N
+*STM LED
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN CLM3C-AKW-CUAVB253
+~!Manufacturer_Name (Wolfspeed)
+~!Manufacturer_Part_Number (CLM3C-AKW-CUAVB253)
+~!Mouser Part Number (941-CLM3CAKWCUAVB253)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Cree-LED/CLM3C-AKW-CUAVB253?qs=3AcK5DacLbqERPW6%2FzkoPg%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.mouser.co.uk/datasheet/2/90/CLM3CRKWAKW1156-274590.pdf)
+~!Height (1.4mm)
+CLM3C-AKW-CUAVB253
+1.1!U 2.1!U 

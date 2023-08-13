@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CRCW1210470RJNEA'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "CRCW1210470RJNEA" (!) = "", "RESC3225X60N", "Resistor Chip", "71-CRCW1210J-470-E3", "https://www.mouser.com/Search/Refine.aspx?Keyword=71-CRCW1210J-470-E3", "", "", "Thick Film Resistors - SMD 1/2watt 470ohms 5%", "", "0.6 mm"
+END_PART
+
+END.

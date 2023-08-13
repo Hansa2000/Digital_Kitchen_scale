@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GND Pin=Battery-1
+Removed Pin From Net: NetName=NetB1_3 Pin=Battery-2
+Removed Member From Class: ClassName=initial circuit Member=Battery
+Change Component Designator: OldDesignator=buttons NewDesignator=J2
+Change Component Designator: OldDesignator=ESP-12F NewDesignator=IC1
+Change Component Designator: OldDesignator=HX711_LC NewDesignator=J4
+Change Component Designator: OldDesignator=HX711_out NewDesignator=J3
+Change Component Designator: OldDesignator=load cell NewDesignator=J5
+Change Component Designator: OldDesignator=OLED NewDesignator=J1
+Change Component Designator: OldDesignator=TC2117 NewDesignator=B1
+Added Component: Designator=J?(JST_B2B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/B2B-XH-A(LF)(SN)/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetB1_3 Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Change Net Name : Old Net Name=NetB2_1 New Net Name=NetLED_1
+Change Net Name : Old Net Name=NetB2_4 New Net Name=NetC5-4.7uF_1
+Change Net Name : Old Net Name=NetB2_5 New Net Name=NetMCP73831_5
+Change Net Name : Old Net Name=NetD1_2 New Net Name=NetLED_2
+Added Member To Class: ClassName=initial circuit Member=Component J? B2B-XH-A(LF)(SN)

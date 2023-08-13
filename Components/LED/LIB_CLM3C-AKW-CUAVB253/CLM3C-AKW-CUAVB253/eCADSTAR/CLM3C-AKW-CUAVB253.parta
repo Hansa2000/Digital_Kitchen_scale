@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_759114"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-09-01-11:18:55)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "CLM3C-AKW-CUAVB253")
+)
+
+
+(pinAssign "ECS_759114"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-09-01-11:18:55)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_759114")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "CLM3C-AKW-CUAVB253")
+)
+
+
+(part "CLM3C-AKW-CUAVB253"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-09-01-11:18:55)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "CLM3C-AKW-CUAVB253")
+    (pinAssignRef "ECS_759114")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "LED")
+    (property "description" "Standard LEDs - SMD Amber LED Cree PLCC2 1 in 1 SMD LED CLM3C-RKW/AKW")
+    (property "Manufacturer_Name" "Wolfspeed")
+    (property "Manufacturer_Part_Number" "CLM3C-AKW-CUAVB253")
+    (property "Mouser_Part_Number" "941-CLM3CAKWCUAVB253")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Cree-LED/CLM3C-AKW-CUAVB253?qs=3AcK5DacLbqERPW6%2FzkoPg%3D%3D")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Datasheet_Link" "https://www.mouser.co.uk/datasheet/2/90/CLM3CRKWAKW1156-274590.pdf")
+    (property "compAreaTopHeight" 1.4)
+)
+
+

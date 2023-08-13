@@ -1,0 +1,14 @@
+Added Component: Designator=OLED IN(SAMTEC_MTSW-104-XX-X-S-XXX)
+Add component (AddParameter): Name = "Availability"; Value = "No availability data"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MTSW-104-12-F-S-850/Samtec/view-part/6593359/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MTSW-104-12-F-S-850"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MTSW-104-12-F-S-850/Samtec/view-part/6593359/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetOLED IN_01 Pin=OLED IN-01
+Added Pin To Net: NetName=NetOLED IN_02 Pin=OLED IN-02
+Added Pin To Net: NetName=NetOLED IN_03 Pin=OLED IN-03
+Added Pin To Net: NetName=NetOLED IN_04 Pin=OLED IN-04
+Added Member To Class: ClassName=second_pcb Member=Component OLED IN MTSW-104-XX-X-S-XXX

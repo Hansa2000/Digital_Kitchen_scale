@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Calorie Tracker</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <div id="scaleContainer">
+    <h1>Calorie Tracker</h1>
+    <h2 id="weight">0</h2>
+    <p id="unitLabel">grams</p>
+    <button class="button" id="recordButton">Record</button>
+    <button class="button" id="tareButton">Tare</button>
+    <button class="button" id="unitButton">Toggle Unit</button>
+  </div>
+
+  <div id="mealForm">
+    <h2>Track Your Meal</h2>
+    <label for="foodName">Food Name:</label>
+    <input type="text" id="foodName" placeholder="Enter food name">
+
+    <label for="weight">Weight:</label>
+    <input type="text" id="weight" placeholder="Enter weight" readonly>
+
+    <label for="calories">Calories:</label>
+    <input type="text" id="calories" placeholder="Enter calorie count">
+
+    <input type="submit" id="submitMeal" value="Add to Meal">
+  </div>
+
+  <div id="mealTracking">
+    <h2>Currently Recording Meal</h2>
+    <div id="currentMeal">
+      <p><strong>Food Name:</strong> <span id="mealFoodName"></span></p>
+      <p><strong>Weight:</strong> <span id="mealWeight"></span> grams</p>
+      <p><strong>Calories:</strong> <span id="mealCalories"></span></p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

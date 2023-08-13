@@ -1,0 +1,114 @@
+;Proteus Design Interchange Format
+
+(PDIF
+  (vendor "Labcenter Electronics")
+  (version 1 0)
+  (library
+    (part "SOT230P700X1804N"
+      (family "ANA")
+      (package "SOT230P700X1804N")
+      (attribute "PKG_TYPE" "SOT230P700X1804N")
+    )
+    (package "SOT230P700X1804N"
+      (units THOU)
+      (layer OCCA
+        (graphic
+          (stroke 1.97)
+          (path (pt -167.72 137.8) (pt -167.72 -137.8))
+        )
+        (graphic
+          (stroke 1.97)
+          (path (pt -167.72 -137.8) (pt 167.72 -137.8))
+        )
+        (graphic
+          (stroke 1.97)
+          (path (pt 167.72 -137.8) (pt 167.72 137.8))
+        )
+        (graphic
+          (stroke 1.97)
+          (path (pt 167.72 137.8) (pt -167.72 137.8))
+        )
+      )
+      (layer TSLK
+        (graphic
+          (stroke 5.0)
+          (path (pt 68.9 127.95) (pt 68.9 75.39))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt 68.9 -127.95) (pt 68.9 -75.39))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -68.9 120.67) (pt -68.9 127.95))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -68.9 -127.95) (pt -68.9 -120.67))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -68.9 127.95) (pt 68.9 127.95))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt 68.9 -127.95) (pt -68.9 -127.95))
+        )
+        (graphic
+          (stroke 7.87)
+          (circle (pt -201.18 90.55) (pt -193.31 90.55))
+        )
+      )
+      (layer TASM
+        (graphic
+          (stroke 5.0)
+          (path (pt -68.9 127.95) (pt 68.9 127.95))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt 68.9 127.95) (pt 68.9 -127.95))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt 68.9 -127.95) (pt -68.9 -127.95))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -68.9 -127.95) (pt -68.9 127.95))
+        )
+        (graphic
+          (stroke 7.87)
+          (circle (pt -201.18 90.55) (pt -193.31 90.55))
+        )
+      )
+      (leg 1 (pt -119.09 90.55) (padstack 1))
+      (leg 2 (pt -119.09 0) (padstack 2))
+      (leg 3 (pt -119.09 -90.55) (padstack 3))
+      (leg 4 (pt 119.09 0) (padstack 4))
+      (padstack 1
+        (pad (layer TCOP) (rectf 35.04 77.56 0 10.51 0))
+        (pad (layer TRES) (rectf 35.04 77.56 0 10.51 0))
+        (pad (layer TPST) (rectf 35.04 77.56 0 10.51 0))
+      )
+      (padstack 2
+        (pad (layer TCOP) (rectf 35.04 77.56 0 10.51 0))
+        (pad (layer TRES) (rectf 35.04 77.56 0 10.51 0))
+        (pad (layer TPST) (rectf 35.04 77.56 0 10.51 0))
+      )
+      (padstack 3
+        (pad (layer TCOP) (rectf 35.04 77.56 0 10.51 0))
+        (pad (layer TRES) (rectf 35.04 77.56 0 10.51 0))
+        (pad (layer TPST) (rectf 35.04 77.56 0 10.51 0))
+      )
+      (padstack 4
+        (pad (layer TCOP) (rectf 77.56 125.59 0 9.7 90.0))
+        (pad (layer TRES) (rectf 77.56 125.59 0 9.7 90.0))
+        (pad (layer TPST) (rectf 77.56 125.59 0 9.7 90.0))
+      )
+      (model SOT230P700X180-4N.step
+        (euler 0 0 0)
+        (offset 0 0 0)
+      )
+    )
+  )
+)

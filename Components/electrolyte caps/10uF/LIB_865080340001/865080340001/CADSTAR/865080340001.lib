@@ -1,0 +1,18 @@
+.865080340001 :1 ;Wurth Elektronik 10uF 16 V dc Aluminium Electrolytic Capacitor, WCAP-ASLI Series 2000h 4 (Dia.) x 5.35mm
+CAPAE430X550N
+*STM C
+*NGS
+*PLB 1="+" 2="-"
+*MXP 2
+*DFN 865080340001
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (865080340001)
+~!Mouser Part Number (710-865080340001)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/865080340001?qs=0KOYDY2FL2%252BaqRFD837lAw%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/865080340001.pdf)
+~!Height (5.5mm)
+~!3D_Model (865080340001)
+"865080340001"
+1.1!U 2.1!U 

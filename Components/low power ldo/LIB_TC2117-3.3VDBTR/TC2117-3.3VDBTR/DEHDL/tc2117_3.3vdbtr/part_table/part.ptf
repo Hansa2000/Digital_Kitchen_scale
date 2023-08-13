@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TC2117_3.3VDBTR'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Microchip", "TC2117-3.3VDBTR" (!) = "", "SOT230P700X180-4N", "SOT223 (3-Pin)", "579-TC2117-3.3VDBTR", "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/TC2117-3.3VDBTR?qs=AF%252BffTaPb30YsLOBvxArLw%3D%3D", "TC2117-3.3VDBTR", "https://www.arrow.com/en/products/tc2117-3.3vdbtr/microchip-technology?region=nac", "Microchip TC2117-3.3VDBTR, LDO Voltage Regulator, 800mA, 3.3 V +/-0.5%, 2.7  6 Vin, 3-Pin SOT-223", "https://componentsearchengine.com/Datasheets/2/TC2117-3.3VDBTR.pdf", "1.8 mm"
+END_PART
+
+END.

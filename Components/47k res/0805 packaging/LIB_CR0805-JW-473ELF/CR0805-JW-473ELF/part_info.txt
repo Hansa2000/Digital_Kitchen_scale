@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=CR0805-JW-473ELF
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=2.3
+Released=2023-03-07 09:22:32
+Downloaded=2023-04-20 08:37:56
+3D=Y

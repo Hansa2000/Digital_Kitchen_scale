@@ -1,0 +1,18 @@
+.CRCW0805470RFKEAC :1 ;Thick Film Resistors - SMD 1/8Watt 470ohms 1% Commercial Use
+RESC2012X60N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN CRCW0805470RFKEAC
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (CRCW0805470RFKEAC)
+~!Mouser Part Number (71-CRCW0805470RFKEAC)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW0805470RFKEAC?qs=E3Y5ESvWgWPsF5leBpDSrQ%3D%3D)
+~!Arrow Part Number (CRCW0805470RFKEAC)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/crcw0805470rfkeac/vishay?region=nac)
+~!Link Datasheet (https://mouser.componentsearchengine.com/Datasheets/1/CRCW0805470RFKEAC.pdf)
+~!Height (0.6mm)
+~!3D_Model (CRCW0805470RFKEAC)
+CRCW0805470RFKEAC
+1.1!U 2.1!U 

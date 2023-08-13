@@ -1,0 +1,18 @@
+.CRCW1210470RJNEA :1 ;Thick Film Resistors - SMD 1/2watt 470ohms 5%
+RESC3225X60N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN CRCW1210470RJNEA
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (CRCW1210470RJNEA)
+~!Mouser Part Number (71-CRCW1210J-470-E3)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=71-CRCW1210J-470-E3)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (-)
+~!Height (0.6mm)
+~!3D_Model (CRCW1210470RJNEA)
+CRCW1210470RJNEA
+1.1!U 2.1!U 

@@ -1,0 +1,9 @@
+Manufacturer=Würth Elektronik
+PartNumber=885012107013
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=4.1
+Released=2018-12-31 09:57:28
+Downloaded=2023-04-21 20:38:39
+3D=Y

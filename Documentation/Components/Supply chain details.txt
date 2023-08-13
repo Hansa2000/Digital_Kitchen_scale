@@ -1,0 +1,27 @@
+Components from mouser:
+1.Thick Film Resistors - SMD CRGCQ 0805 10K 5% SMD Resistor RoHS Compliant By Exemption
+2.Aluminum Electrolytic Capacitors - SMD WCAP-ASLI 10uF 16V 20% SMD/SMT RoHS Compliant
+3.Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 0.1uF X7R 0805 10% RoHS Compliant
+4.Multilayer Ceramic Capacitors MLCC - SMD/SMT WCAP-CSGP 4.7uF 0805 20% 16V MLCC RoHS Compliant
+5.Thick Film Resistors - SMD 0805 15Kohms 5% AEC-Q200 RoHS Compliant By Exemption
+6.Thick Film Resistors - SMD 47K 5% RoHS Compliant By Exemption
+7.LDO Voltage Regulators 800mA Fixed Output RoHS Compliant
+8.Battery Management Charge mgnt contr RoHS Compliant
+9.Thick Film Resistors - SMD 2K 5% RoHS Compliant By Exemption
+10.Thick Film Resistors - SMD 1/8Watt 470ohms 1% Commercial Use RoHS Compliant By Exemption
+11.Standard LEDs - SMD Amber LED RoHS Compliant
+12.micro usb jack
+
+Components from chinese suppliers:
+1.OLED display module(SSD1306)
+2.Load cell and amplifier module
+
+Local components:
+1.push buttons
+2.pin headers
+
+PCB printing:
+*JLC PCB
+
+Enclosure:
+*3D printed - locally

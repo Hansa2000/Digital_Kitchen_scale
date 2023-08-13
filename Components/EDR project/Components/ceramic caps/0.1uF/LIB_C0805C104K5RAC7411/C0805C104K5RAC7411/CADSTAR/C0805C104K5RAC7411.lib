@@ -1,0 +1,18 @@
+.C0805C104K5RAC7411 :1 ;Cap Ceramic 0.1uF 50V X7R 10% Pad SMD 0805 125C T/R
+CAPC2012X88N
+*STM C
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN C0805C104K5RAC7411
+~!Manufacturer_Name (KEMET)
+~!Manufacturer_Part_Number (C0805C104K5RAC7411)
+~!Mouser Part Number (80-C0805C104K5RACLR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/KEMET/C0805C104K5RAC7411?qs=jbRM9o5BbzPcVXF0wW9AYg%3D%3D)
+~!Arrow Part Number (C0805C104K5RAC7411)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/c0805c104k5rac7411/kemet-corporation)
+~!Link Datasheet (https://www.mouser.com/datasheet/2/212/KEM_C1002_X7R_SMD-1102033.pdf)
+~!Height (0.88mm)
+~!3D_Model (C0805C104K5RAC7411)
+C0805C104K5RAC7411
+1.1!U 2.1!U 

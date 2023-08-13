@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "CLM3C-AKW-CUAVB253"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-09-01-11:18:55)
+    (mountForm default
+        (footprintRef "LEDM3020X140N")
+        (spec "System")
+    )
+)

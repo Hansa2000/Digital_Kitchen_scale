@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=usb  NewDesignator=usb
+Added Pin To Net: NetName=RST Pin=PROG_HEADER-3
+Added Member To Class: ClassName=initial circuit Member=Component RST(ON) 1825910-2

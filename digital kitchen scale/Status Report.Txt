@@ -1,0 +1,20 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[final_PCB.GTO]
+   Generated File[final_PCB.GTP]
+   Generated File[final_PCB.GTS]
+   Generated File[final_PCB.GTL]
+   Generated File[final_PCB.GBL]
+   Generated File[final_PCB.GBS]
+   Generated File[final_PCB.GBP]
+   Generated File[final_PCB.GBO]
+   Generated File[final_PCB.GM]
+   Generated File[final_PCB.EXTREP]
+   Generated File[final_PCB.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 3:05:59 PM On 7/24/2023

@@ -1,0 +1,9 @@
+Manufacturer=Wolfspeed
+PartNumber=CLM3C-AKW-CUAVB253
+PartCategory=LED
+PackageCategory=LED Moulded
+PinCount=2
+Version=1.1
+Released=2020-09-01 11:18:55
+Downloaded=2023-04-19 18:29:13
+3D=N

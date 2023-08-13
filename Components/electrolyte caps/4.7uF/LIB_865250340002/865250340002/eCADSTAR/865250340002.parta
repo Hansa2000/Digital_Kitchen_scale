@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_467814"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-12-05-10:23:56)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "865250340002")
+)
+
+
+(pinAssign "ECS_467814"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-12-05-10:23:56)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_467814")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "865250340002")
+)
+
+
+(part "865250340002"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-12-05-10:23:56)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "865250340002")
+    (pinAssignRef "ECS_467814")
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "Wurth Elektronik 4.7F 16V dc Aluminium Electrolytic Capacitor, Surface Mount 5.5 (Dia.) x 3.85mm +85C 5.5mm 1mm")
+    (property "Manufacturer_Name" "Wurth Elektronik")
+    (property "Manufacturer_Part_Number" "865250340002")
+    (property "Mouser_Part_Number" "710-865250340002")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/865250340002?qs=0KOYDY2FL298qwYqQV5RgA%3D%3D")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Datasheet_Link" "https://componentsearchengine.com/Datasheets/2/865250340002.pdf")
+    (property "compAreaTopHeight" 5.5)
+)
+
+

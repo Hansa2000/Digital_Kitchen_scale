@@ -1,0 +1,16 @@
+.CR0805-JW-202ELF :1 ;Bourns CR0805 Series Thick Film Surface Mount Resistor 0805 Case 2k +/-5% 0.125W +/-200ppm/C
+RESC2012X60N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN CR0805-JW-202ELF
+~!Mouser Part Number (652-CR0805JW-202ELF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Bourns/CR0805-JW-202ELF?qs=wL7NMIHXUPnyGz%2Fa3t%2FGQg%3D%3D)
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (CR0805-JW-202ELF)
+~!Link Datasheet (https://www.bourns.com/pdfs/chpreztr.pdf)
+~!Height (0.6mm)
+~!3D_Model (CR0805-JW-202ELF)
+CR0805-JW-202ELF
+1.1!U 2.1!U 

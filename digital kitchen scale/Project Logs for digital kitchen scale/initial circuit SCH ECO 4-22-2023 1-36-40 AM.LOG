@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=B2 NewDesignator=MCP73831
+Change Component Designator: OldDesignator=D1 NewDesignator=LED
+Change Component Designator: OldDesignator=J6 NewDesignator=usb 2.0
+Change Component Designator: OldDesignator=P1 NewDesignator=PROG_HEADER

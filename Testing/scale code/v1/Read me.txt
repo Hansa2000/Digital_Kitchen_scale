@@ -1,0 +1,2 @@
+This is a simple scale code which is extracted from web tutorial.
+Functions : Taring from second button

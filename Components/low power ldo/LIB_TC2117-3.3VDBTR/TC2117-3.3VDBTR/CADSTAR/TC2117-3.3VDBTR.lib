@@ -1,0 +1,18 @@
+.TC2117-3.3VDBTR :1 ;Microchip TC2117-3.3VDBTR, LDO Voltage Regulator, 800mA, 3.3 V +/-0.5%, 2.7  6 Vin, 3-Pin SOT-223
+SOT230P700X180-4N
+*STM PS
+*NGS
+*PLB 1="GND" 2="VOUT_1" 3="VIN" 4="VOUT_2"
+*MXP 4
+*DFN TC2117-3.3VDBTR
+~!Manufacturer_Name (Microchip)
+~!Manufacturer_Part_Number (TC2117-3.3VDBTR)
+~!Mouser Part Number (579-TC2117-3.3VDBTR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Microchip-Technology/TC2117-3.3VDBTR?qs=AF%252BffTaPb30YsLOBvxArLw%3D%3D)
+~!Arrow Part Number (TC2117-3.3VDBTR)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/tc2117-3.3vdbtr/microchip-technology?region=nac)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/TC2117-3.3VDBTR.pdf)
+~!Height (1.8mm)
+~!3D_Model (TC2117-3.3VDBTR)
+TC2117-3.3VDBTR
+1.1!U 2.1!U 3.1!U 4.1!U 

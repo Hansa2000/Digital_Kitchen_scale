@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Real-Time Weight Measurement</title>
+  <style>
+    /* CSS for the scale layout */
+    #scaleContainer {
+      width: 300px;
+      margin: 50px auto;
+      background-color: #f0f0f0;
+      border-radius: 10px;
+      padding: 20px;
+      text-align: center;
+    }
+
+    #weight {
+      font-size: 48px;
+      margin-top: 0;
+    }
+
+    .button {
+      display: inline-block;
+      padding: 10px 20px;
+      margin: 10px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    /* CSS for the button states */
+    .button:hover {
+      background-color: #45a049;
+    }
+
+    .button:active {
+      background-color: #3e8e41;
+    }
+  </style>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+<body>
+  <div id="scaleContainer">
+    <h1>Real-Time Weight Measurement</h1>
+    <h2 id="weight">0</h2>
+    <p>grams</p>
+    <button class="button" id="recordButton">Record</button>
+    <button class="button" id="tareButton">Tare</button>
+    <button class="button" id="unitButton">Toggle Unit</button>
+  </div>
+
+  <script>
+    // Assume the weight measurement is obtained through a WebSocket connection or AJAX request.
+    // Update the "weight" element with the received weight measurement.
+
+    // Example code for updating the weight measurement using WebSocket:
+    var socket = new WebSocket("wss://example.com/weight-measurement");
+
+    socket.onmessage = function(event) {
+      var weightData = JSON.parse(event.data);
+      var weightElement = document.getElementById("weight");
+      weightElement.textContent = weightData.weight;
+    };
+
+    // Example code for updating the weight measurement using AJAX request:
+    function updateWeightMeasurement() {
+      $.ajax({
+        url: "https://example.com/api/weight-measurement",
+        method: "GET",
+        success: function(response) {
+          var weightData = JSON.parse(response);
+          var weightElement = document.getElementById("weight");
+          weightElement.textContent = weightData.weight;
+        },
+        error: function(xhr, status, error) {
+          console.log("Error occurred while retrieving weight measurement.");
+        }
+      });
+    }
+
+    // Periodically update the weight measurement
+    setInterval(updateWeightMeasurement, 1000); // Update every second
+
+    // Button click event handlers
+    $(document).ready(function() {
+      $("#recordButton").click(function() {
+        var weight = $("#weight").text();
+        // Handle recording the weight measurement
+        console

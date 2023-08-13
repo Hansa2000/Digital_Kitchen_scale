@@ -1,0 +1,265 @@
+;Proteus Design Interchange Format
+
+(PDIF
+  (vendor "Labcenter Electronics")
+  (version 1 0)
+  (library
+    (part "MCP73831T5ACIOT"
+      (family "ANA")
+      (package "SOT95P280X1455N")
+      (description "Charge_Management_Controller")
+      (attribute "PKG_TYPE" "SOT95P280X1455N")
+      (attribute "OC_NEWARK" "56K7045")
+      (attribute "PACKAGE" "SOT-5")
+      (attribute "MPN" "MCP73831T-5ACI/OT")
+      (attribute "OC_FARNELL" "1332158")
+      (attribute "SUPPLIER" "Microchip")
+      (gate
+        (swap 1)
+        (symbol "MCP73831T5ACIOT")
+        (pin "PROG" 5 (type IP))
+        (pin "STAT" 1 (type OP))
+        (pin "VBAT" 3 (type OP))
+        (pin "VDD" 4 (type PP))
+        (pin "VSS" 2 (type PP))
+      )
+    )
+    (symbol "MCP73831T5ACIOT"
+      (units THOU)
+      (graphic
+        (stroke 1)
+        (path (pt -500 300) (pt 500 300) (pt 500 -500) (pt -500 -500) (pt -500 300) (closed))
+      )
+      (terminal
+        (body (symbol "PIN_R0_U_L200") (pt -700.0 -100.0) (rot 0) (mir 0) (visible true))
+        (name (pt 239.37 0.0) (rot 0) (just MIDDLE LEFT) (visible true))
+        (number (pt -39.37 0.0) (rot 0) (just MIDDLE LEFT) (visible true))
+      )
+      (terminal
+        (body (symbol "PIN_R180_U_L200") (pt 700.0 100.0) (rot 0) (mir 0) (visible true))
+        (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+        (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+      )
+      (terminal
+        (body (symbol "PIN_R180_U_L200") (pt 700.0 -100.0) (rot 0) (mir 0) (visible true))
+        (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+        (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+      )
+      (terminal
+        (body (symbol "PIN_R0_U_L200") (pt -700.0 100.0) (rot 0) (mir 0) (visible true))
+        (name (pt 239.37 0.0) (rot 0) (just MIDDLE LEFT) (visible true))
+        (number (pt -39.37 0.0) (rot 0) (just MIDDLE LEFT) (visible true))
+      )
+      (terminal
+        (body (symbol "PIN_R0_U_L200") (pt -700.0 -300.0) (rot 0) (mir 0) (visible true))
+        (name (pt 239.37 0.0) (rot 0) (just MIDDLE LEFT) (visible true))
+        (number (pt -39.37 0.0) (rot 0) (just MIDDLE LEFT) (visible true))
+      )
+    )
+    (symbol "PIN_R0_U_L200"
+      (units THOU)
+      (graphic
+        (stroke 6.5)
+        (path (pt 0.0 0.0) (pt 200.0 0.0))
+      )
+    )
+    (symbol "PIN_R180_U_L200"
+      (units THOU)
+      (graphic
+        (stroke 6.5)
+        (path (pt 0.0 0.0) (pt -200.0 0.0))
+      )
+    )
+    (package "SOT95P280X1455N"
+      (units THOU)
+      (layer TSLK
+        (graphic
+          (stroke 6.0)
+          (path (pt 24.0 61.0) (pt 12.0 61.0))
+        )
+        (graphic
+          (stroke 6.0)
+          (path (pt 12.0 61.0) (pt -12.0 61.0))
+        )
+        (graphic
+          (stroke 6.0)
+          (path (pt -12.0 61.0) (pt -24.0 61.0))
+        )
+        (graphic
+          (stroke 6)
+          (path
+            (arc (pt 12 61) (pt -12 49) (pt 12 73) (start -180) (sweep 0))
+            (pt -12 61)
+          )
+        )
+      )
+      (layer TASM
+        (graphic
+          (stroke 6.0)
+          (path (pt -34.0 -61.0) (pt 34.0 -61.0))
+        )
+        (graphic
+          (stroke 6.0)
+          (path (pt 34.0 -61.0) (pt 34.0 -47.0))
+        )
+        (graphic
+          (stroke 6.0)
+          (path (pt 34.0 -47.0) (pt 34.0 -28.0))
+        )
+        (graphic
+          (stroke 6.0)
+          (path (pt 34.0 -28.0) (pt 34.0 28.0))
+        )
+        (graphic
+          (stroke 6.0)
+          (path (pt 34.0 61.0) (pt 12.0 61.0))
+        )
+        (graphic
+          (stroke 6.0)
+          (path (pt 12.0 61.0) (pt -12.0 61.0))
+        )
+        (graphic
+          (stroke 6.0)
+          (path (pt -12.0 61.0) (pt -34.0 61.0))
+        )
+        (graphic
+          (stroke 6.0)
+          (path (pt -34.0 61.0) (pt -34.0 47.0))
+        )
+        (graphic
+          (stroke 6.0)
+          (path (pt -34.0 47.0) (pt -34.0 28.0))
+        )
+        (graphic
+          (stroke 6.0)
+          (path (pt -34.0 28.0) (pt -34.0 10.0))
+        )
+        (graphic
+          (stroke 6.0)
+          (path (pt -34.0 10.0) (pt -34.0 -10.0))
+        )
+        (graphic
+          (stroke 6.0)
+          (path (pt -34.0 -10.0) (pt -34.0 -28.0))
+        )
+        (graphic
+          (stroke 6.0)
+          (path (pt -34.0 47.0) (pt -59.0 47.0))
+        )
+        (graphic
+          (stroke 6.0)
+          (path (pt -59.0 47.0) (pt -59.0 28.0))
+        )
+        (graphic
+          (stroke 6.0)
+          (path (pt -59.0 28.0) (pt -34.0 28.0))
+        )
+        (graphic
+          (stroke 6.0)
+          (path (pt -34.0 10.0) (pt -59.0 10.0))
+        )
+        (graphic
+          (stroke 6.0)
+          (path (pt -59.0 10.0) (pt -59.0 -10.0))
+        )
+        (graphic
+          (stroke 6.0)
+          (path (pt -59.0 -10.0) (pt -34.0 -10.0))
+        )
+        (graphic
+          (stroke 6.0)
+          (path (pt -34.0 -61.0) (pt -34.0 -47.0))
+        )
+        (graphic
+          (stroke 6.0)
+          (path (pt -34.0 -47.0) (pt -34.0 -28.0))
+        )
+        (graphic
+          (stroke 6.0)
+          (path (pt -34.0 -28.0) (pt -59.0 -28.0))
+        )
+        (graphic
+          (stroke 6.0)
+          (path (pt -59.0 -28.0) (pt -59.0 -47.0))
+        )
+        (graphic
+          (stroke 6.0)
+          (path (pt -59.0 -47.0) (pt -34.0 -47.0))
+        )
+        (graphic
+          (stroke 6.0)
+          (path (pt 34.0 -47.0) (pt 59.0 -47.0))
+        )
+        (graphic
+          (stroke 6.0)
+          (path (pt 59.0 -47.0) (pt 59.0 -28.0))
+        )
+        (graphic
+          (stroke 6.0)
+          (path (pt 59.0 -28.0) (pt 34.0 -28.0))
+        )
+        (graphic
+          (stroke 6.0)
+          (path (pt 34.0 61.0) (pt 34.0 47.0))
+        )
+        (graphic
+          (stroke 6.0)
+          (path (pt 34.0 47.0) (pt 34.0 28.0))
+        )
+        (graphic
+          (stroke 6.0)
+          (path (pt 34.0 28.0) (pt 59.0 28.0))
+        )
+        (graphic
+          (stroke 6.0)
+          (path (pt 59.0 28.0) (pt 59.0 47.0))
+        )
+        (graphic
+          (stroke 6.0)
+          (path (pt 59.0 47.0) (pt 34.0 47.0))
+        )
+        (graphic
+          (stroke 6)
+          (path
+            (arc (pt 12 61) (pt -12 49) (pt 12 73) (start -180) (sweep 0))
+            (pt -12 61)
+          )
+        )
+      )
+      (leg 1 (pt -51 37) (padstack 1))
+      (leg 2 (pt -51 0) (padstack 2))
+      (leg 3 (pt -51 -37) (padstack 3))
+      (leg 4 (pt 51 -37) (padstack 4))
+      (leg 5 (pt 51 37) (padstack 5))
+      (padstack 1
+        (pad (layer TCOP) (rectf 22.0 50.0 0 0.0 0))
+        (pad (layer TRES) (rectf 22.0 50.0 0 0.0 0))
+        (pad (layer TPST) (rectf 22.0 50.0 0 0.0 0))
+      )
+      (padstack 2
+        (pad (layer TCOP) (rectf 22.0 50.0 0 0.0 0))
+        (pad (layer TRES) (rectf 22.0 50.0 0 0.0 0))
+        (pad (layer TPST) (rectf 22.0 50.0 0 0.0 0))
+      )
+      (padstack 3
+        (pad (layer TCOP) (rectf 22.0 50.0 0 0.0 0))
+        (pad (layer TRES) (rectf 22.0 50.0 0 0.0 0))
+        (pad (layer TPST) (rectf 22.0 50.0 0 0.0 0))
+      )
+      (padstack 4
+        (pad (layer TCOP) (rectf 22.0 50.0 0 0.0 0))
+        (pad (layer TRES) (rectf 22.0 50.0 0 0.0 0))
+        (pad (layer TPST) (rectf 22.0 50.0 0 0.0 0))
+      )
+      (padstack 5
+        (pad (layer TCOP) (rectf 22.0 50.0 0 0.0 0))
+        (pad (layer TRES) (rectf 22.0 50.0 0 0.0 0))
+        (pad (layer TPST) (rectf 22.0 50.0 0 0.0 0))
+      )
+      (model MCP73831T-5ACI_OT.step
+        (euler 0 0 0)
+        (offset 0 0 0)
+      )
+    )
+  )
+)
