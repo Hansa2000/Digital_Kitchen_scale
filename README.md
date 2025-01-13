@@ -1,6 +1,6 @@
 # Precision Chef: Smart Digital Kitchen Scale
 
-A next-generation **Smart Digital Kitchen Scale** that revolutionizes cooking with precision, convenience, and connectivity. Designed to measure up to 5 kilograms with an astounding accuracy of 1 gram, this scale is your trusted culinary partner for achieving perfection in every recipe.
+This project started as a **newbie exploration** into automating calorie tracking using a smart kitchen scale. The goal was to demonstrate the concept of integrating weight measurement with connectivity to enable calorie tracking automation. While this is an initial prototype, it lays the foundation for a broader system that will require additional supporting hardware to fully realize its potential.
 
 ## Features
 
